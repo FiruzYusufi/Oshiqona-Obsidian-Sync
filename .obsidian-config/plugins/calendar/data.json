@@ -1,0 +1,27 @@
+{
+  "shouldConfirmBeforeCreate": false,
+  "weekStart": "monday",
+  "wordsPerDot": 250,
+  "showWeeklyNote": true,
+  "weeklyNoteFormat": "YYYY-[W]ww",
+  "weeklyNoteTemplate": "Шаблоны/Недельная-заметка.md",
+  "dailyNoteFormat": "YYYY-MM-DD",
+  "dailyNoteTemplate": "Шаблоны/Дневная-заметка.md",
+  "dailyNotePath": "Дневник",
+  "weeklyNotePath": "Дневник/Недели",
+  "localeData": {
+    "months": [
+      "Январь", "Февраль", "Март", "Апрель", "Май", "Июнь",
+      "Июль", "Август", "Сентябрь", "Октябрь", "Ноябрь", "Декабрь"
+    ],
+    "monthsShort": [
+      "Янв", "Фев", "Мар", "Апр", "Май", "Июн",
+      "Июл", "Авг", "Сен", "Окт", "Ноя", "Дек"
+    ],
+    "weekdays": [
+      "Воскресенье", "Понедельник", "Вторник", "Среда", 
+      "Четверг", "Пятница", "Суббота"
+    ],
+    "weekdaysShort": ["Вс", "Пн", "Вт", "Ср", "Чт", "Пт", "Сб"]
+  }
+}

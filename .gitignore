@@ -1,0 +1,35 @@
+# Obsidian временные файлы
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/hotkeys.json
+.obsidian/appearance.json
+.obsidian/core-plugins.json
+.obsidian/community-plugins.json
+
+# Системные файлы
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Резервные копии
+*.bak
+*~
+
+# Логи
+*.log
+
+# Сохраняем важные конфигурации
+!.obsidian/plugins/
+!.obsidian/themes/
+!14-Configuration/
+!.obsidian-config/
+
+# Исключаем временные файлы PowerShell
+*.exe
+fix-vault.*
+
+# Сохраняем все MD файлы и документацию
+!*.md
+!**/*.md

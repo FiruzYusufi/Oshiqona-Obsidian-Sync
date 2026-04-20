@@ -1,0 +1,66 @@
+{
+  "kanban-plugin": "board",
+  "prepend-archive-date": true,
+  "prepend-archive-separator": ":",
+  "prepend-archive-format": "YYYY-MM-DD",
+  "date-colors": [],
+  "date-display-format": "YYYY-MM-DD",
+  "date-picker-week-start": 1,
+  "date-trigger": "@",
+  "hide-date-in-title": false,
+  "hide-tags-in-title": false,
+  "inline-metadata-position": "bottom",
+  "lane-width": 280,
+  "link-date-to-daily-note": true,
+  "max-archive-size": -1,
+  "move-dates": true,
+  "move-tags": true,
+  "new-card-insertion-method": "prepend",
+  "new-line-trigger": "enter",
+  "show-add-list": true,
+  "show-archive-all": true,
+  "show-checkboxes": true,
+  "show-relative-date": true,
+  "tag-colors": [
+    {
+      "tagKey": "#bug",
+      "color": "rgba(255, 82, 82, 1)",
+      "backgroundColor": "rgba(255, 82, 82, 0.1)"
+    },
+    {
+      "tagKey": "#critical",
+      "color": "rgba(255, 0, 0, 1)",
+      "backgroundColor": "rgba(255, 0, 0, 0.15)"
+    },
+    {
+      "tagKey": "#feature",
+      "color": "rgba(33, 150, 243, 1)",
+      "backgroundColor": "rgba(33, 150, 243, 0.1)"
+    },
+    {
+      "tagKey": "#performance",
+      "color": "rgba(255, 152, 0, 1)",
+      "backgroundColor": "rgba(255, 152, 0, 0.1)"
+    },
+    {
+      "tagKey": "#testing",
+      "color": "rgba(76, 175, 80, 1)",
+      "backgroundColor": "rgba(76, 175, 80, 0.1)"
+    },
+    {
+      "tagKey": "#docs",
+      "color": "rgba(156, 39, 176, 1)",
+      "backgroundColor": "rgba(156, 39, 176, 0.1)"
+    },
+    {
+      "tagKey": "#auth",
+      "color": "rgba(0, 188, 212, 1)",
+      "backgroundColor": "rgba(0, 188, 212, 0.1)"
+    },
+    {
+      "tagKey": "#signalr",
+      "color": "rgba(255, 64, 129, 1)",
+      "backgroundColor": "rgba(255, 64, 129, 0.1)"
+    }
+  ]
+}

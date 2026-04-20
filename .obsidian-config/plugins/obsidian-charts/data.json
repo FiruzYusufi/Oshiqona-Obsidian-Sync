@@ -1,0 +1,37 @@
+{
+  "defaultChartType": "line",
+  "chartColors": {
+    "primary": "#3b82f6",
+    "secondary": "#10b981",
+    "accent": "#f59e0b",
+    "danger": "#ef4444",
+    "success": "#22c55e"
+  },
+  "chartSettings": {
+    "showLegend": true,
+    "showGrid": true,
+    "responsive": true,
+    "animation": true
+  },
+  "templates": {
+    "performance": {
+      "type": "line",
+      "title": "Performance Metrics",
+      "xAxis": "Date",
+      "yAxis": "Value",
+      "colors": ["#3b82f6", "#10b981", "#f59e0b"]
+    },
+    "bundle-size": {
+      "type": "bar",
+      "title": "Bundle Size Over Time",
+      "xAxis": "Version",
+      "yAxis": "Size (MB)",
+      "colors": ["#ef4444"]
+    },
+    "test-coverage": {
+      "type": "doughnut",
+      "title": "Test Coverage",
+      "colors": ["#22c55e", "#ef4444"]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "enableDataviewJs": true,
+  "enableInlineDataview": true,
+  "enableInlineDataviewJs": true,
+  "prettyRenderInlineFields": true,
+  "tableIdColumnName": "File",
+  "tableGroupColumnName": "Group",
+  "maxRecursiveRenderDepth": 4,
+  "defaultDateFormat": "MMMM dd, yyyy",
+  "defaultDateTimeFormat": "h:mm a - MMMM dd, yyyy",
+  "maxCodeBlockRenderLines": 1000,
+  "warnOnEmptyResult": true,
+  "refreshEnabled": true,
+  "refreshInterval": 2500,
+  "dataviewJsTimeout": 10000,
+  "inlineQueryPrefix": "=",
+  "inlineJsQueryPrefix": "$="
+}
